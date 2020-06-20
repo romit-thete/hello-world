@@ -1,2 +1,5 @@
 # hello-world
-Just a test repo
+Hello Gitters,
+This is my first experience with Git and Github.
+I'm finding it interesting!
+I love Python!!
